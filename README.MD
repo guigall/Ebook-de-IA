@@ -43,4 +43,9 @@ Canvas - Gerador de imagem com IA：
 - ebook gerado durante as aulas em `output`
 
 
+## 🎯 Tema e foco do E-book
+
+- Tema de anime
+- História em formato de HQ
+- Personagens em forma de animes e mangás
 

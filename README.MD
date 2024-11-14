@@ -9,7 +9,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canva](https://www.canva.com)
+- [Canvas](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -22,7 +22,7 @@ ChatGPT：
 | conteúdo | Faça um ebook sobre musculação para iniciantes, com dietas, treinos e dicas essenciais. Faça no formato e tom de anime. {REGRAS} > Não deve abranger outra área além da musculação e nutrição; > Não se limite nas ideias e dicas; > Treinos práticos; > Dietas acessiveis |
 
 
-Canva Gerado de imagem com IA：
+Canvas - Gerador de imagem com IA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |

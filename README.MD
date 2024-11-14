@@ -35,7 +35,7 @@ Canvas - Gerador de imagem com IA：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via IA do Canva
 
 ## 📚 Materiais
 

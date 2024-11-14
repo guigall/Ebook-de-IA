@@ -9,7 +9,6 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
@@ -23,11 +22,11 @@ ChatGPT：
 | conteúdo | Faça um ebook sobre musculação para iniciantes, com dietas, treinos e dicas essenciais. Faça no formato e tom de anime. {REGRAS} > Não deve abranger outra área além da musculação e nutrição; > Não se limite nas ideias e dicas; > Treinos práticos; > Dietas acessiveis |
 
 
-Midjourney：
+Canva Gerado de imagem com IA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |  Crie personagens de animes fazendo exercícios de musculação|
 
 ## ✨ Features
 

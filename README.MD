@@ -37,9 +37,8 @@ Canvas - Gerador de imagem com IA：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via IA do Canva
 
-## 📚 Materiais
+## 📚 Material
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 

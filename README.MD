@@ -28,6 +28,10 @@ Canva Gerado de imagem com IA：
 | :----: | -------------------------------------------------------------------------------------- |
 | título |  Crie personagens de animes fazendo exercícios de musculação|
 
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título |  Crie personagens de animes dando tchau agradecidos |
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT

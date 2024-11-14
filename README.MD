@@ -20,10 +20,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de musculação e dietas focado em pessoas iniciantes, então me de ideias de títulos sobre assuntos em alta e chamativos.                                                     |
-| conteúdo | Faça um ebook sobre musculação para iniciantes, com dietas, treinos e dicas essenciais. Faça no formato e tom de anime. {REGRAS} > Não deve abranger outra área além da musculação e nutrição
-> Não se limite nas ideias e dicas
-> Treinos práticos
-> Dietas acessiveis |
+| conteúdo | Faça um ebook sobre musculação para iniciantes, com dietas, treinos e dicas essenciais. Faça no formato e tom de anime. {REGRAS} 
+> Não deve abranger outra área além da musculação e nutrição; > Não se limite nas ideias e dicas; > Treinos práticos; > Dietas acessiveis |
 
 
 Midjourney：
